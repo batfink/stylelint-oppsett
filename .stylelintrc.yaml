@@ -1,3 +1,10 @@
+plugins:
+    - 'stylelint-selector-bem-pattern'
+    - 'stylelint-declaration-use-variable'
 rules:
+    'sh-waqar/declaration-use-variable':
+        - 'color'
+    'plugin/selector-bem-pattern':
+        preset: "suit"
     color-hex-case: "lower"
     declaration-block-trailing-semicolon: "always"

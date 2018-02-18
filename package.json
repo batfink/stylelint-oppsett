@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "stylelint-declaration-use-variable": "^1.6.0",
+    "stylelint-selector-bem-pattern": "^1.1.0"
+  }
+}

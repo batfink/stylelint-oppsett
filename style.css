@@ -1,7 +1,19 @@
 body {
-    background: #FF9900;
+    color: #FF9900;
 }
 
 main {
     display: block
+}
+
+/** @define MyComponent */
+
+.myComponent {
+    font-size: 16px;
+}
+
+/** @define utilities */
+
+.flex {
+    display: flex;
 }
